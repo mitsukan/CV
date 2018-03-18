@@ -21,9 +21,12 @@ Communication was key during my time as an accountant, as I would meet clients f
 
 **NTI Management Ltd** (October 2016 to July 2017)    
 *Co-Founder, Office Manager*
+text here
+
 
 **Nicholas Ng & Company Chartered Accountants** (August 2014 to April 2017)   
 *Accounting Trainee* 
+text here
 
 ## Education
 
