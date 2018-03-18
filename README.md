@@ -17,6 +17,14 @@ I have developed a strong sense of pragmaticism during my time working in accoun
 
 Communication was key during my time as an accountant, as I would meet clients from a broad spectrum of backgrounds and industries. From language barriers to varying levels of financial literacy, it was important not only to pick up these details when liasing with these clients, but also to convey them to colleagues to ensure we have covered all the bases.
 
+## Experience
+
+**NTI Management Ltd** (October 2016 to July 2017)    
+*Co-Founder, Office Manager*
+
+**Nicholas Ng & Company Chartered Accountants** (August 2014 to April 2017)   
+*Accounting Trainee* 
+
 ## Education
 
 #### Makers Academy (March 2018 to June 2018)
@@ -36,11 +44,7 @@ Communication was key during my time as an accountant, as I would meet clients f
 - 2:2
 - Part of the cycling varsity team in 2013
 
+## Interests
 
-## Experience
-
-**NTI Management Ltd** (October 2016 to July 2017)    
-*Co-Founder, Office Manager*
-
-**Nicholas Ng & Company Chartered Accountants** (August 2014 to April 2017)   
-*Accounting Trainee* 
+I go to rock climbing gyms when my body allows it, and read sci-fi and spend time on driving simulators when it doesn't.
+I dabble in philosophy books in my spare time and enjoy meditating to unwind.
