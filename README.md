@@ -1,6 +1,6 @@
 ## Jihin Ip
 
-Co-founder of a small accounting firm working with small and medium sized clients, and trainee accountant with valuable skills in bookkeeping, accounting, tax and client management. I am dedicating myself to learn the skills of coding through Makers Academy.
+Co-founder of a small accounting firm working with small and medium sized clients, and trainee accountant with valuable skills in bookkeeping, accounting, tax and client management. I am committing (hur hur) myself to learn the skills of coding through Makers Academy.
 
 ## Skills
 
@@ -15,7 +15,7 @@ I have developed a strong sense of pragmaticism during my time working in accoun
 
 #### Communication
 
-Communication was key during my time as an accountant, as I would meet clients from a broad spectrum of backgrounds and industries. From language barriers to varying levels of financial literacy, it was important not only to pick up these details when liasing with these clients, but also to convey them to colleagues to ensure we have covered all the bases.
+Communication was key during my time as an accountant, as I would meet clients from a broad spectrum of backgrounds and industries. From language barriers to varying levels of financial literacy, it was important not only to pick up these details when liasing with these clients, but also to convey them to colleagues to ensure all the bases had been covered.
 
 ## Experience
 
