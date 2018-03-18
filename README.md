@@ -1,29 +1,25 @@
-## Your Name
+## Jihin Ip
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Co-founder of a small accounting firm working with small and medium sized clients, and trainee accountant with valuable skills in bookkeeping, accounting, tax and client management. I am dedicating myself to learn the skills of coding through Makers Academy.
 
 ## Skills
 
-#### This Skill
+#### Problem solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I have developed a strong sense of pragmaticism during my time working in accountancy, serving me well while I was working as an accountanting trainee and during the start-up. I place great importance in understanding the nuances and interpretations of any problem, and strive to provide solutions that best fit the needs of the situation.
+
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Communication was key during my time as an accountant, as I would meet clients from a broad spectrum of backgrounds and industries. From language barriers to varying levels of financial literacy, it was important not only to pick up these details when liasing with these clients, but also to convey them to colleagues to ensure we have covered all the bases.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2018 to June 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +30,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Kingston University (2010 to 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Business Management
+- 2:2
+- Part of the cycling varsity team in 2013
 
-#### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**NTI Management Ltd** (October 2016 to July 2017)    
+*Co-Founder, Office Manager*
+**Nicholas Ng & Company Chartered Accountants** (August 2014 to April 2017)   
+*Accounting Trainee* 
