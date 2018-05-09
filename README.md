@@ -7,7 +7,7 @@ Co-founder of a small accounting firm working with small and medium sized client
 #### Problem solving
 
 ~~I have developed a strong sense of pragmaticism during my time working in accountancy, serving me well while I was working as an accountanting trainee and during the start-up. I place great importance in understanding the nuances and interpretations of any problem, and strive to provide solutions that best fit the needs of the situation.~~
-
+Less "I can do this" and more "I like doing this". e.g. "I enjoy learning" instead of "I'm a fast learner".
 
 - Experience
 - Achievements
