@@ -1,5 +1,7 @@
 ## Jihin Ip
 
+link a blog - 
+
 Co-founder of a small accounting firm working with small and medium sized clients, and trainee accountant with experience in bookkeeping, accounting, tax and client management. I am committing (hur hur) myself to learn the skills of learning and coding through Makers Academy.
 
 ## Skills
