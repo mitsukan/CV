@@ -33,7 +33,7 @@ Communication was key during my time as an accountant, as I would meet clients f
 *Accounting Trainee* 
 
 **Roka Restaurants** (February 2014 to July 2014)
-*Floor *
+*Floor Assistant*
 
 ## Education
 
