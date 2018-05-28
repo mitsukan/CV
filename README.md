@@ -14,16 +14,15 @@ Co-founder of a small accounting firm working with small and medium sized client
 ## Skills
 
 #### Problem solving
-My previous job as an accounting heavily involved problem solving, dealing with individual client requirements and navigating the complexities of taxation. I've been able to apply this to my coding, from back end logic to group work logistics.
-Less "I can do this" and more "I like doing this". e.g. "I enjoy learning" instead of "I'm a fast learner".
-
-- Experience
-- Achievements
-- Evidence
+My previous job as an accounting heavily involved problem solving. On top of processing information and working on accounts, we also dealt with individual client requirements and navigating the complexities of taxation. I've been able to apply this to my coding, from applying TDD to solve group work logistics and challenges.
 
 #### Communication
 
-Communication was key during my time as an accountant, as I would meet clients from a broad spectrum of backgrounds and industries. From language barriers to varying levels of financial literacy, it was important not only to pick up these details when liasing with these clients, but also to convey them to colleagues to ensure all the bases had been covered.
+Communication was key during my time as an accountant, as I would meet clients from a broad spectrum of backgrounds and industries. A large part of my role was translating from layman to technical specifications. This skill has shown to be invaluable when working with other people while coding, being able to communicate with people of varying technical knowledge to meet goals at Makers Academy.
+
+#### Learning
+
+
 
 ## Experience
 
@@ -32,6 +31,9 @@ Communication was key during my time as an accountant, as I would meet clients f
 
 **Nicholas Ng & Company Chartered Accountants** (August 2014 to April 2017)   
 *Accounting Trainee* 
+
+**Roka Restaurants** (February 2014 to July 2014)
+*Floor *
 
 ## Education
 
