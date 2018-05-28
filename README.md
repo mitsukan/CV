@@ -9,6 +9,8 @@ Co-founder of a small accounting firm working with small and medium sized client
 | Project                                                                                                                        | When                                                                                          | Technologies used                                          | Site/examples                                         
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
 | [MooBook](https://github.com/shihhanwang/Acebook-Byte-3) | Week 8-9  | Ruby on Rails framework ; Bootstrap HTML/CSS frontend; RSpec & Travis CI testing | [link](https://serene-forest-46618.herokuapp.com/) |
+| [Thermostat App](https://github.com/mitsukan/thermostat) | Week 5 | JavaScript ; HTML/CSS frontend ; Jasmine testing | n/a |
+| [Chitter](https://github.com/mitsukan/chitter-challenge) | Week 4 | Ruby ; HTML frontend ; RSpec testing | n/a |
 
 
 ## Skills
