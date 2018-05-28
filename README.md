@@ -43,8 +43,8 @@ Communication was key during my time as an accountant, as I would meet clients f
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
+- OOP, TDD, MVC
+- Agile/XP values
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
@@ -52,7 +52,6 @@ Communication was key during my time as an accountant, as I would meet clients f
 
 - BA Business Management
 - 2:2
-- Part of the cycling varsity team in 2013
 
 ## Interests
 
