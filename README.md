@@ -2,12 +2,14 @@
 [LinkedIn](https://www.linkedin.com/in/jihin-ip-9449a958/) | 
 [Blog](https://medium.com/@jihinip20)
 
-Co-founder of a small accounting firm working with small and medium sized clients, and trainee accountant with experience in bookkeeping, accounting, tax and client management. I am committing (hur hur) myself to learn the skills of learning and coding through Makers Academy.
+A recent graduate of Makers Academy, I am a junior software developer looking for a work environment with a rich community, great opportunities and support for learning.
+I was previously a trainee accountant with experience in bookkeeping, accounting, tax and client management, and a co-founder of a small accounting firm working with small and medium sized clients.
 
 ## Projects
 
 | Project                                                                                                                        | When                                                                                          | Technologies used                                          | Site/examples                                         
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+| [Beat Makers]() | Week 11-12 | Javascript with Howler.js library, jQuery ; Bootstrap HTML/CSS frontend; Jasmine | [link](https://drum-machine-fksukfijbx.now.sh/)
 | [MooBook](https://github.com/shihhanwang/Acebook-Byte-3) | Week 8-9  | Ruby on Rails framework ; Bootstrap HTML/CSS frontend; RSpec & Travis CI testing | [link](https://serene-forest-46618.herokuapp.com/) |
 | [Thermostat App](https://github.com/mitsukan/thermostat) | Week 5 | JavaScript ; HTML/CSS frontend ; Jasmine testing | n/a |
 | [Chitter](https://github.com/mitsukan/chitter-challenge) | Week 4 | Ruby ; HTML frontend ; RSpec testing | n/a |
@@ -24,9 +26,12 @@ Communication was key during my time as an accountant, as I would meet clients f
 
 #### Learning
 
-
+I have found my learning experience significantly enhanced by the pairing and group work at Makers Academy. Being taught by someone of a similar knowledge level helps with understanding, while teaching pair partners has helped me solidify knowledge. Reading, practice and experimentation drives my learning outside of working with people.
 
 ## Experience
+
+**Kanaama Interactice Community Support (Charity)** (February 2018 to present)
+*Interim Treasurer*
 
 **NTI Management Ltd** (October 2016 to July 2017)    
 *Co-Founder, Office Manager*
@@ -57,5 +62,4 @@ Communication was key during my time as an accountant, as I would meet clients f
 
 ## Interests
 
-I go to rock climbing gyms when my body allows it, and read sci-fi and spend time on driving simulators when it doesn't.
-I dabble in philosophy books in my spare time and enjoy meditating to unwind.
+I go to rock climbing gyms and yoga sessions when my body allows, read sci-fi and meditate when it doesn't.
