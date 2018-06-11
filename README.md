@@ -30,7 +30,7 @@ I have found my learning experience significantly enhanced by the pairing and gr
 
 ## Experience
 
-**Kanaama Interactice Community Support (Charity)** (February 2018 to present)
+**Kanaama Interactice Community Support (Charity)** (February 2018 to present)   
 *Interim Treasurer*
 
 **NTI Management Ltd** (October 2016 to July 2017)    
@@ -39,7 +39,7 @@ I have found my learning experience significantly enhanced by the pairing and gr
 **Nicholas Ng & Company Chartered Accountants** (August 2014 to April 2017)   
 *Accounting Trainee* 
 
-**Roka Restaurants** (February 2014 to July 2014)
+**Roka Restaurants** (February 2014 to July 2014)   
 *Floor Assistant*
 
 ## Education
