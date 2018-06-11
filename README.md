@@ -46,10 +46,6 @@ I have found my learning experience significantly enhanced by the pairing and gr
 
 #### Makers Academy (March 2018 to June 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
 - OOP, TDD, MVC
 - Agile/XP values
 - Ruby, Rails, JavaScript
