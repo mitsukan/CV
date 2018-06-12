@@ -2,7 +2,7 @@
 [LinkedIn](https://www.linkedin.com/in/jihin-ip-9449a958/) | 
 [Blog](https://medium.com/@jihinip20)
 
-A recent graduate of Makers Academy, I am a junior software developer looking for a work environment with a rich community, great opportunities and support for learning.
+A recent graduate of Makers Academy, I am a junior software developer looking for a work environment with a rich community, great opportunities and support for learning.   
 I was previously a trainee accountant with experience in bookkeeping, accounting, tax and client management, and a co-founder of a small accounting firm working with small and medium sized clients.
 
 ## Projects
