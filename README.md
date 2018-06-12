@@ -18,11 +18,12 @@ I was previously a trainee accountant with experience in bookkeeping, accounting
 ## Skills
 
 #### Problem solving
-My previous job as an accounting heavily involved problem solving. On top of processing information and working on accounts, we also dealt with individual client requirements and navigating the complexities of taxation. I've been able to apply this to my coding, from applying TDD to solve group work logistics and challenges.
+My previous job as an accounting heavily involved problem solving. On top of processing information and working on accounts, we also dealt with individual client requirements and navigating the complexities of taxation. I've been able to apply this to my coding, from applying TDD to solve group work logistics and challenges. I've also found agile methodology such as sprints to be incredibly useful in breaking down problems to easily solvable bits.
 
 #### Communication
 
-Communication was key during my time as an accountant, as I would meet clients from a broad spectrum of backgrounds and industries. A large part of my role was translating from layman to technical specifications. This skill has shown to be invaluable when working with other people while coding, being able to communicate with people of varying technical knowledge to meet goals at Makers Academy.
+Communication was key during my time as an accountant, as I would meet clients from a broad spectrum of backgrounds and industries. A large part of my role was translating from layman to technical specifications.   
+This skill has shown to be invaluable when working with other people while coding, being able to communicate with people of varying technical knowledge to meet goals at Makers Academy. I had found that at times, I had to focus my efforts on team work dynamics over the code to ensure smooth progress in the projects we were set. 
 
 #### Learning
 
