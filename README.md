@@ -60,3 +60,4 @@ I have found my learning experience significantly enhanced by the pairing and gr
 ## Interests
 
 I go to rock climbing gyms and yoga sessions when my body allows, read sci-fi and meditate when it doesn't.
+I organise beginner friendly climbing sessions for Makers Academy with the help of their Community Manager.
