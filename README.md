@@ -23,7 +23,7 @@ My previous job as an accounting heavily involved problem solving. On top of pro
 #### Communication
 
 Communication was key during my time as an accountant, as I would meet clients from a broad spectrum of backgrounds and industries. A large part of my role was translating from layman to technical specifications.   
-This skill has shown to be invaluable when working with other people while coding, being able to communicate with people of varying technical knowledge to meet goals at Makers Academy. I had found that at times, I had to focus my efforts on team work dynamics over the code to ensure smooth progress in the projects we were set.
+This skill has shown to be invaluable when working with other people while coding, being able to communicate with people of varying technical knowledge to meet goals at Makers Academy. I had found that at times, I had to focus my efforts on team work dynamics over the code to ensure smooth progress in the projects we were set.   
 My recent experience as a teaching assistant helped me refine my communication skills, having to adjust my vocabulary to meet the students' needs.
 
 #### Learning
