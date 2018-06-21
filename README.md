@@ -32,7 +32,7 @@ I have found my learning experience significantly enhanced by the pairing and gr
 
 ## Experience
 
-**Code at Uni** (June 2018)
+**Code at Uni** (June 2018)   
 *Teaching assistant*
 
 **Kanaama Interactice Community Support (Charity)** (February 2018 to present)   
@@ -43,7 +43,6 @@ I have found my learning experience significantly enhanced by the pairing and gr
 
 **Nicholas Ng & Company Chartered Accountants** (August 2014 to April 2017)   
 *Accounting Trainee*
-
 
 **Roka Restaurants** (February 2014 to July 2014)   
 *Floor Assistant*   
