@@ -18,7 +18,7 @@ I was previously a trainee accountant with experience in bookkeeping, accounting
 ## Skills
 
 #### Problem solving
-My previous job as an accounting heavily involved problem solving. On top of processing information and working on accounts, we also dealt with individual client requirements and navigating the complexities of taxation. I've been able to apply this to my coding, from applying TDD to solve group work logistics and challenges. I've also found agile methodology such as sprints to be incredibly useful in breaking down problems to easily solvable bits.
+My previous job as an accounting heavily involved problem solving. On top of processing information and working on accounts, we also dealt with individual client requirements and navigating the complexities of taxation. I've been able to apply this to my coding, from applying TDD to solve group work logistics and challenges. I've also found agile methodology such as sprints to be incredibly useful in breaking down problems to easily solvable bits, allowing progress and change to happen more organically.
 
 #### Communication
 
@@ -33,7 +33,7 @@ I have found my learning experience significantly enhanced by the pairing and gr
 ## Experience
 
 **Code at Uni** (June 2018)   
-*Teaching assistant*
+*HTML/CSS Teaching assistant*
 
 **Kanaama Interactice Community Support (Charity)** (February 2018 to present)   
 *Interim Treasurer*
