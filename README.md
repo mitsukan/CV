@@ -23,13 +23,17 @@ My previous job as an accounting heavily involved problem solving. On top of pro
 #### Communication
 
 Communication was key during my time as an accountant, as I would meet clients from a broad spectrum of backgrounds and industries. A large part of my role was translating from layman to technical specifications.   
-This skill has shown to be invaluable when working with other people while coding, being able to communicate with people of varying technical knowledge to meet goals at Makers Academy. I had found that at times, I had to focus my efforts on team work dynamics over the code to ensure smooth progress in the projects we were set. 
+This skill has shown to be invaluable when working with other people while coding, being able to communicate with people of varying technical knowledge to meet goals at Makers Academy. I had found that at times, I had to focus my efforts on team work dynamics over the code to ensure smooth progress in the projects we were set.
+My recent experience as a teaching assistant helped me refine my communication skills, having to adjust my vocabulary to meet the students' needs.
 
 #### Learning
 
 I have found my learning experience significantly enhanced by the pairing and group work at Makers Academy. Being taught by someone of a similar knowledge level helps with understanding, while teaching pair partners has helped me solidify knowledge. Reading, practice and experimentation drives my learning outside of working with people.
 
 ## Experience
+
+**Code at Uni** (June 2018)
+*Teaching assistant*
 
 **Kanaama Interactice Community Support (Charity)** (February 2018 to present)   
 *Interim Treasurer*
@@ -38,10 +42,11 @@ I have found my learning experience significantly enhanced by the pairing and gr
 *Co-Founder, Office Manager*
 
 **Nicholas Ng & Company Chartered Accountants** (August 2014 to April 2017)   
-*Accounting Trainee* 
+*Accounting Trainee*
+
 
 **Roka Restaurants** (February 2014 to July 2014)   
-*Floor Assistant*
+*Floor Assistant*   
 
 ## Education
 
