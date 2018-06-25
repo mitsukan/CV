@@ -32,10 +32,10 @@ I have found my learning experience significantly enhanced by the pairing and gr
 
 ## Experience
 
-**Code at Uni** (June 2018)   
-*HTML/CSS Teaching assistant*
+**Code at Uni** (June 2018 - present)   
+*Instructor*
 
-**Kanaama Interactice Community Support (Charity)** (February 2018 to present)   
+**Kanaama Interactice Community Support (Charity)** (February 2018 - present)   
 *Interim Treasurer*
 
 **NTI Management Ltd** (October 2016 to July 2017)    
