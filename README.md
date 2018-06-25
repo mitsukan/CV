@@ -2,7 +2,7 @@
 [LinkedIn](https://www.linkedin.com/in/jihin-ip-9449a958/) | 
 [Blog](https://medium.com/@jihinip20)
 
-A recent graduate of Makers Academy, I am a junior software developer looking for a work environment with a rich community, great opportunities and support for learning.   
+A recent graduate of Makers Academy and occasional instructor @ Code at Uni, I am a junior software developer looking for a work environment with a rich community, great opportunities and support for learning.   
 I was previously a trainee accountant with experience in bookkeeping, accounting, tax and client management, and a co-founder of a small accounting firm working with small and medium sized clients.
 
 ## Projects
@@ -24,7 +24,8 @@ My previous job as an accounting heavily involved problem solving. On top of pro
 
 Communication was key during my time as an accountant, as I would meet clients from a broad spectrum of backgrounds and industries. A large part of my role was translating from layman to technical specifications.   
 This skill has shown to be invaluable when working with other people while coding, being able to communicate with people of varying technical knowledge to meet goals at Makers Academy. I had found that at times, I had to focus my efforts on team work dynamics over the code to ensure smooth progress in the projects we were set.   
-My recent experience as a teaching assistant helped me refine my communication skills, having to adjust my vocabulary to meet the students' needs.
+
+My experiences as an instructor @ Code at Uni helped me refine my communication skills. I find myself having to adjust my vocabulary to meet the students' needs, as well as ensuring that I understand the questions posed so that I answer in a constructive way that enriches their learning.
 
 #### Learning
 
