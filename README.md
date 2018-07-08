@@ -36,9 +36,6 @@ I have found my learning experience significantly enhanced by the pairing and gr
 **Code at Uni** (June 2018 - present)   
 *Instructor*
 
-**Kanaama Interactice Community Support (Charity)** (February 2018 - present)   
-*Interim Treasurer*
-
 **NTI Management Ltd** (October 2016 to July 2017)    
 *Co-Founder, Office Manager*
 
@@ -47,6 +44,11 @@ I have found my learning experience significantly enhanced by the pairing and gr
 
 **Roka Restaurants** (February 2014 to July 2014)   
 *Floor Assistant*   
+
+## Volunteering
+
+**Kanaama Interactice Community Support (Charity)** (January 2018 - present)   
+*Treasurer, Trustee*
 
 ## Education
 
